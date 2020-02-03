@@ -2,7 +2,7 @@ function build_url(name, limit) {
 
     name = encodeURI(name)
 
-    var base_url = "http://itunes.apple.com/search";
+    var base_url = "https://itunes.apple.com/search";
     var request_url = "?term=" + name + "&limit=" + limit;
     var url = base_url + request_url;
     console.log(url);
