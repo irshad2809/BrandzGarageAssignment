@@ -505,9 +505,10 @@ template {
 
 nav.nav {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     background: #333;
     max-height: 15vh;
+    align-items: center;
 }
 
 .container {
