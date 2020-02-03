@@ -483,7 +483,7 @@ template {
     position: absolute;
     top: 0;
     left: 0;
-    -webkit-mask: url(http://simpleicon.com/wp-content/uploads/music-note-1.svg) 43% center / 50% no-repeat;
+    -webkit-mask: url(./music-note-1.svg) 43% center / 50% no-repeat;
     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ff6932+20,d600fc+50,3cf2fc+80 */
     background: #ff6932;
     /* Old browsers */
